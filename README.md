@@ -63,7 +63,7 @@ Docker Compose란? <br>
 - Application, Database, Redis, Nginx등 각 독립적인 컨테이너로 관리한다고 했을 때 다중 컨테이너 라이프 사이클을 어떻게 <br>
   관리해야 할까? <br>
 - 여러개의 도커 컨테이너로 부터 이루어진 서비스를 구축 및 네트워크 연결, 실행 순서를 자동으로 관리 <br>
-- docker-compose.yml 파일을 작성하여 1회 실행하는 것으로 설정된 모든 컨테이너를 실 <br>
+- docker-compose.yml 파일을 작성하여 1회 실행하는 것으로 설정된 모든 컨테이너를 실행 <br>
 
 
 
