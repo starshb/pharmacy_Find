@@ -97,9 +97,9 @@ src/main/java 하위폴더에 SpringConfig 파일을 생성하고 다음과 같�
 <br>
 package hello.hellospring.service;
 
-import hello.hellospring.repository.MemberRepository;
-import hello.hellospring.repository.MemoryMemberRepository;
-import org.springframework.context.annotation.Bean;
+import hello.hellospring.repository.MemberRepository;<br>
+import hello.hellospring.repository.MemoryMemberRepository;<br>
+import org.springframework.context.annotation.Bean;<br>
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
